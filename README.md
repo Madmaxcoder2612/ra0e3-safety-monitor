@@ -9,7 +9,9 @@ A functional-safety learning project on the Renesas **FPB-RA0E3** board
 
 ![FPB-RA0E3 running the Blink baseline](media/blink_board.jpg)
 
-Demo video of the Blink baseline: [media/blink_demo.mp4](media/blink_demo.mp4)
+![Blink baseline: LED1 and LED2 blinking](media/blink_demo.gif)
+
+Full video: [media/blink_demo.mp4](media/blink_demo.mp4)
 
 ## Idea
 
