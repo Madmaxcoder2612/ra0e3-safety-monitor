@@ -1,0 +1,23 @@
+# e2 studio workspace and build output
+.metadata/
+**/Debug/
+**/Release/
+**/.settings/
+JLinkLog.log
+*.map
+*.elf
+*.srec
+*.o
+*.d
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Host test build
+build/
+tools/results.csv
+
+# Local debug launch config (contains user paths)
+*.launch
