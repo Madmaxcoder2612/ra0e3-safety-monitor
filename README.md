@@ -7,6 +7,10 @@ A functional-safety learning project on the Renesas **FPB-RA0E3** board
 > IEC 61508 / IEC 60730 Class B *patterns*. It is not certified, not assessed
 > by any third party, and must not be used in a real safety-related product.
 
+![FPB-RA0E3 running the Blink baseline](media/blink_board.jpg)
+
+Demo video of the Blink baseline: [media/blink_demo.mp4](media/blink_demo.mp4)
+
 ## Idea
 
 A blinking "actuator" LED is supervised by safety mechanisms. When a fault is
