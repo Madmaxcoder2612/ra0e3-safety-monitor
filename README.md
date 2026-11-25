@@ -1,9 +1,9 @@
 # RA0E3 Safety Monitor
 
 [![CI](https://github.com/Madmaxcoder2612/ra0e3-safety-monitor/actions/workflows/ci.yml/badge.svg)](https://github.com/Madmaxcoder2612/ra0e3-safety-monitor/actions/workflows/ci.yml)
-![Language: C99](https://img.shields.io/badge/language-C99-blue)
-![License: MIT](https://img.shields.io/badge/license-MIT-green)
-![Status: early stage](https://img.shields.io/badge/status-early%20stage-orange)
+[![Language: C99](https://img.shields.io/badge/language-C99-blue)](https://en.cppreference.com/w/c/99)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![Status: early stage](https://img.shields.io/badge/status-early%20stage-orange)](#limitations)
 
 A functional safety learning project on the Renesas **FPB-RA0E3** board (Arm Cortex-M23, 32 MHz, 16 KB flash, 2 KB RAM). A blinking "actuator" LED is supervised by safety mechanisms. When a fault is detected, the actuator is switched off and a fault code is shown on the second LED.
 
